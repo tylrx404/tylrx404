@@ -1,16 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=TYLRX404&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=180&section=header&text=Data%20Analytics%20%7C%20Full%20Stack&fontSize=30&fontColor=00ffcc" />
-</p>
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=22&center=true&vCenter=true&width=600&lines=Data+Analytics+%7C+Full-Stack+Developer;Building+Real-World+Projects;Always+Improving" />
 </p>
 
