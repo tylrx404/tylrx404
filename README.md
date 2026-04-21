@@ -1,43 +1,73 @@
-<h1 align="center">Hi 👋, I'm Mrunal</h1>
-<h3 align="center">Data Analytics & Web Development Enthusiast</h3>
-
----
-
-### 🚀 About Me
-- 📊 Working on Data Analytics & Visualization  
-- 💻 Building Web Development projects  
-- 🧠 Exploring Machine Learning  
-- 🎯 Focused on real-world problem solving  
-
----
-
-### 🛠️ Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,git,github" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=25&center=true&vCenter=true&width=600&lines=Data+Analytics+Enthusiast;Full-Stack+Developer;Building+Real-World+Projects;Open+to+Opportunities" />
 </p>
 
+<h1 align="center">Hi 👋, I'm Mrunal</h1>
+<h3 align="center">Data Analytics • Full-Stack Development • Problem Solving</h3>
+
 ---
 
-### 📊 GitHub Stats
+## 🚀 About Me
+- 📊 Focused on **Data Analytics & Visualization**
+- 💻 Building **Full-Stack Web Applications**
+- 🧠 Working with **Machine Learning (basics)**
+- 🎯 Interested in solving **real-world problems using data + technology**
+
+---
+
+## 🔥 Projects
+
+### 🌱 EcoPulse – Environmental Intelligence Platform
+- Developed a full-stack green-tech platform for environmental monitoring  
+- Tracks daily user habits & calculates environmental impact  
+- Integrated AQI & weather APIs for real-time insights  
+- Built a **Civic Issue Reporting System** (User → Admin → Government workflow)  
+- Includes leaderboard & analytics dashboard  
+
+---
+
+## 🛠️ Skills
+
+### 👨‍💻 Programming Languages
+C • C++ • Java • Python • JavaScript  
+
+### 🌐 Web Development
+HTML • CSS • React • Next.js • Bootstrap  
+
+### 📊 Data & Analytics
+SQL • Data Visualization • Dashboard Development  
+
+### ⚙️ Tools & Technologies
+Git • GitHub • VS Code  
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tylrx404&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
-### 🔥 Streak Stats
+## 🔥 Streak Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=tylrx404&theme=tokyonight" />
 </p>
 
 ---
 
-### ⚡ Current Focus
-- Building strong projects  
-- Improving DSA & problem-solving  
-- Learning advanced analytics & ML  
+## 🎯 Current Focus
+- Improving **Data Analytics & Visualization skills**
+- Strengthening **DSA & problem solving**
+- Building more **real-world projects**
 
 ---
 
-### 💡 Fun Fact
-I enjoy building things that solve real-world problems 😎
+## 📫 Connect With Me
+- 📧 Email: mrunalkolhe19@gmail.com  
+- 💻 GitHub: https://github.com/tylrx404  
+
+---
+
+## ⚡ Fun Fact
+I like building practical systems that solve real-world problems 🚀
