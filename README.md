@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mrunal</h1>
+<h3 align="center">Data Analytics & Web Development Enthusiast</h3>
 
-<!--
-**tylrx404/tylrx404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 📊 Working on Data Analytics & Visualization  
+- 💻 Building Web Development projects  
+- 🧠 Exploring Machine Learning  
+- 🎯 Focused on real-world problem solving  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- **Languages:** Python, JavaScript, SQL  
+- **Frontend:** HTML, CSS, React (Learning)  
+- **Tools:** Git, GitHub, VS Code  
+- **Data:** Data Visualization, Dashboards  
+
+---
+
+### 📌 Current Focus
+- Building strong projects  
+- Improving DSA & problem-solving  
+- Learning advanced analytics & ML  
+
+---
+
+### 📊 GitHub Activity
+(Will grow with consistency 🚀)
+
+---
+
+### ⚡ Fun Fact
+I like building things that actually solve problems 😎
