@@ -12,24 +12,32 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, JavaScript, SQL  
-- **Frontend:** HTML, CSS, React (Learning)  
-- **Tools:** Git, GitHub, VS Code  
-- **Data:** Data Visualization, Dashboards  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,git,github" />
+</p>
 
 ---
 
-### 📌 Current Focus
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tylrx404&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+### 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tylrx404&theme=tokyonight" />
+</p>
+
+---
+
+### ⚡ Current Focus
 - Building strong projects  
 - Improving DSA & problem-solving  
 - Learning advanced analytics & ML  
 
 ---
 
-### 📊 GitHub Activity
-(Will grow with consistency 🚀)
-
----
-
-### ⚡ Fun Fact
-I like building things that actually solve problems 😎
+### 💡 Fun Fact
+I enjoy building things that solve real-world problems 😎
