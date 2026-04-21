@@ -1,6 +1,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=25&center=true&vCenter=true&width=600&lines=Data+Analytics+Enthusiast;Full-Stack+Developer;Building+Real-World+Projects;Open+to+Opportunities" />
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=TYLRX404&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=22&center=true&vCenter=true&width=600&lines=Data+Analytics+%7C+Full-Stack+Developer;Building+Real-World+Projects;Always+Improving" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Mrunal</h1>
 <h3 align="center">Data Analytics • Full-Stack Development • Problem Solving</h3>
@@ -28,7 +34,7 @@
 
 ## 🛠️ Skills
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Languages
 C • C++ • Java • Python • JavaScript  
 
 ### 🌐 Web Development
@@ -37,8 +43,12 @@ HTML • CSS • React • Next.js • Bootstrap
 ### 📊 Data & Analytics
 SQL • Data Visualization • Dashboard Development  
 
-### ⚙️ Tools & Technologies
+### ⚙️ Tools
 Git • GitHub • VS Code  
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nextjs,git,github" />
+</p>
 
 ---
 
