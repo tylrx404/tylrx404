@@ -66,10 +66,9 @@ Git • GitHub • VS Code
 
 ## 📊 GitHub Stats
 
-![Mrunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylrx404&show_icons=true&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tylrx404&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tylrx404&layout=compact&theme=tokyonight)
-
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tylrx404&theme=github_dark)
 ---
 
 ## 🔥 GitHub Streak
