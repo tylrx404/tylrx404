@@ -67,8 +67,11 @@ Git • GitHub • VS Code
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tylrx404&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylrx404&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tylrx404&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylrx404&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
