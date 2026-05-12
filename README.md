@@ -64,13 +64,6 @@ Git • GitHub • VS Code
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tylrx404&theme=github_dark)
-
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tylrx404&theme=github_dark)
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
