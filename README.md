@@ -71,6 +71,7 @@ Git • GitHub • VS Code
 </p>
 
 ---
+
 ## 📈 Contribution Graph
 
 [![Mrunal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tylrx404&theme=github-dark)](https://github.com/tylrx404)
