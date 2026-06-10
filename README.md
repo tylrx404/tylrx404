@@ -3,15 +3,15 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Mrunal</h1>
-<h3 align="center">Data Analytics • Full-Stack Development • Problem Solving</h3>
-
+<h3 align="center">Computer Science Student | Full-Stack Developer | Data Analytics Enthusiast</h3>
 ---
 
 ## 🚀 About Me
-- 📊 Focused on **Data Analytics & Visualization**
-- 💻 Building **Full-Stack Web Applications**
-- 🧠 Working with **Machine Learning (basics)**
-- 🎯 Interested in solving **real-world problems using data + technology**
+- 🎓 Computer Science student passionate about software engineering
+- 💻 Building full-stack applications with modern web technologies
+- 📊 Interested in data analytics, visualization, and decision-making systems
+- 🧠 Exploring machine learning and AI-driven solutions
+- 🚀 Focused on developing impactful real-world projects
 
 ---
 
