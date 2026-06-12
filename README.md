@@ -24,6 +24,11 @@
 - Built a **Civic Issue Reporting System** (User → Admin → Government workflow)  
 - Includes leaderboard & analytics dashboard  
 
+### ☕ Smart Cafe Management System
+- Developed during a national-level hackathon
+- Built a digital cafe workflow and order management solution
+- Focused on improving operational efficiency and user experience
+- Collaborated within a team under hackathon constraints
 ---
 
 ## 🛠️ Skills
@@ -97,6 +102,3 @@ Git • GitHub • VS Code
 </p>
 
 ---
-
-## ⚡ Fun Fact
-I like building practical systems that solve real-world problems 🚀
