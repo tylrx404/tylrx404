@@ -72,7 +72,7 @@ Git • GitHub • VS Code
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tylrx404&theme=tokyonight&hide_border=false"/>
+  <img src="https://streak-stats.demolab.com?user=tylrx404&theme=tokyonight&hide_border=true&cache_bust=1" />
 </p>
 
 ---
