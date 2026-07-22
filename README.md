@@ -79,9 +79,7 @@ Git • GitHub • VS Code
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tylrx404&theme=tokyonight&hide_border=true&cache_bust=1" />
-</p>
+[![Mrunal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tylrx404&theme=github-dark)](https://github.com/tylrx404)
 
 
 ## 🎯 Current Focus
